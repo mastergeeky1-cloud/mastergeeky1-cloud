@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/mastergeeky1-cloud/mastergeeky1-cloud/main/GeekyMaster_Logo.png" alt="Geeky Master" width="100">
 </h1>
 
-<h1 align="center">Geeky Master</h1>
+<h1 align="center">Master Geeky</h1>
 <p align="center">
   <strong>AI Automation Engineer | Building Intelligent Systems</strong>
 </p>
@@ -11,7 +11,7 @@
   <a href="https://github.com/mastergeeky1-cloud">
     <img src="https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github" alt="GitHub">
   </a>
-  <a href="mailto:mastergeeky1@gmail.com">
+  <a href="mailto:geekytech@mastergeekytech.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
   </a>
   <a href="https://mastergeekytech.com">
@@ -23,7 +23,7 @@
 
 ## 🚀 About Me
 
-I'm **Geeky Master**, an AI Automation Engineer passionate about creating intelligent systems that solve real-world problems. My expertise lies in building autonomous agents, developing complex workflows, and integrating cutting-edge AI technologies.
+I'm **Master Geeky**, an AI Automation Engineer passionate about creating intelligent systems that solve real-world problems. My expertise lies in building autonomous agents, developing complex workflows, and integrating cutting-edge AI technologies.
 
 ### 🔥 What I Do
 - **AI-Powered Automation**: Building self-healing systems that adapt and optimize
@@ -31,6 +31,8 @@ I'm **Geeky Master**, an AI Automation Engineer passionate about creating intell
 - **API Development**: Designing scalable REST APIs and microservices
 - **System Architecture**: Building robust, cloud-native solutions
 - **Open Source**: Contributing to the community with innovative tools
+
+### 📍 Based in Italy | 🌍 Serving Global Clients
 
 ---
 
@@ -142,16 +144,16 @@ I'm **Geeky Master**, an AI Automation Engineer passionate about creating intell
 I'm always interested in collaborating on exciting projects and connecting with fellow developers and innovators.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/geekymaster/">
+  <a href="https://www.linkedin.com/in/mastergeeky/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/geekymaster">
+  <a href="https://twitter.com/mastergeekytech">
     <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter">
   </a>
-  <a href="https://youtube.com/@geekymaster">
+  <a href="https://youtube.com/@mastergeekytech">
     <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube" alt="YouTube">
   </a>
-  <a href="https://discord.gg/geekymaster">
+  <a href="https://discord.gg/mastergeeky">
     <img src="https://img.shields.io/badge/Discord-Join-7289DA?style=for-the-badge&logo=discord" alt="Discord">
   </a>
 </p>
@@ -160,9 +162,15 @@ I'm always interested in collaborating on exciting projects and connecting with 
 
 ## 📧 Contact Me
 
-- 📧 **Email**: [mastergeeky1@gmail.com](mailto:mastergeeky1@gmail.com)
-- 🌐 **Website**: [mastergeekytech.com](https://mastergeekytech.com)
-- 💼 **Portfolio**: [portfolio.mastergeekytech.com](https://portfolio.mastergeekytech.com)
+### 📧 **Professional Email Addresses:**
+- **🏢 Business**: [geekytech@mastergeekytech.com](mailto:geekytech@mastergeekytech.com)
+- **👤 Personal**: [mastergeeky@mastergeekytech.com](mailto:mastergeeky@mastergeekytech.com)
+- **⚙️ Workflows**: [n8n-workflows@mastergeekytech.com](mailto:n8n-workflows@mastergeekytech.com)
+
+### 🌐 **Online Presence:**
+- **🌍 Website**: [mastergeekytech.com](https://mastergeekytech.com)
+- **💼 Portfolio**: [portfolio.mastergeekytech.com](https://portfolio.mastergeekytech.com)
+- **📊 Analytics**: [analytics.mastergeekytech.com](https://analytics.mastergeekytech.com)
 
 ---
 
@@ -173,10 +181,24 @@ I'm always interested in collaborating on exciting projects and connecting with 
 - 🌍 Contributed to open source projects used by millions
 - 📚 Read over 100 technical books this year
 - 🏆 Won 3 hackathons in the last 2 years
+- 🍕 Best pizza maker in Italy (self-proclaimed!)
 
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mastergeeky1-cloud&style=for-the-badge&color=blue" alt="Profile Views">
   <p><strong>Thanks for visiting! ⭐ Consider starring my repositories if you find them useful!</strong></p>
+  
+  <p>
+    <img src="https://img.shields.io/badge/Status-Available_for_Hire-green?style=for-the-badge" alt="Available for Hire">
+    <img src="https://img.shields.io/badge/Location-Remote_Friendly-blue?style=for-the-badge" alt="Remote Friendly">
+  </p>
 </div>
+
+---
+
+### 💬 **Languages:**
+- 🇮🇹 Italian (Native)
+- 🇬🇧 English (Fluent)
+- 🇸🇦 Arabic (Fluent)
+- 🇫🇷 French (Basic)
